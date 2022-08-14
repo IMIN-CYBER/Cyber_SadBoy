@@ -30,6 +30,8 @@ $ pip install future
 
 $ git clone https://github.com/IMIN-CYBER/Cyber_SadBoy
 
+$ cd
+
 $ ls
 
 $ cd Cyber_SadBoy
