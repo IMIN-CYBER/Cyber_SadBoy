@@ -10,6 +10,8 @@ $ pip install requests
 
 $ python -m pip install --upgrade pip
 
+$ pip install requests
+
 $ pkg install pip
 
 $ pip install requests
@@ -19,6 +21,8 @@ $ pip install stdiomask
 $ pip install mechanize
 
 $ pip install bs4
+
+$ pip install beautifulsoup4
 
 $ pip install npm
 
