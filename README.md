@@ -40,5 +40,5 @@ $ git pull
 
 $ ls
 
-$ python Cyber_Sad_Bo.py
+$ python Cyber_Sad_Boy.py
 
